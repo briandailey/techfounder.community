@@ -34,7 +34,7 @@ The way we hope to support tech founders is through:
 
 As of January 2024, Tech Founder Community is very much an experiment. It is
 currently spearheaded by [Brian Dailey](https://dailey.page/) and is only
-available in [Nashville, Tennessee](/location/nashville).
+available in [Nashville, Tennessee](/locations/nashville).
 
 ## What do you mean by "founder"?
 
