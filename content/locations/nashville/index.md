@@ -6,6 +6,10 @@ date: 2024-01-01
 ## Who runs it?
 
 - [Brian Dailey](https://dailey.pag://dailey.page/about/)
+- It all started with [this LinkedIn
+  post](https://www.linkedin.com/posts/briandailey_why-arent-more-companies-in-the-southeast-activity-7138218767964098560-Dksp)
+  and many discussions with local engineers. I want to see more engineers who are
+  considering starting a company take the plunge.
 
 ## Why Nashville?
 
