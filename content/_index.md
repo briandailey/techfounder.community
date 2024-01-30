@@ -13,7 +13,7 @@ If you...
 
 The goal of this community is to encourage and enable engineers to leverage
 their technical and domain expertise to build a thriving business. We do this by
-onnecting interested folks in local networks with peers, mentors, advisors, and
+connecting interested folks in local networks with peers, mentors, advisors, and
 maybe even capital.
 
 Tech Founder Community is modeled after [OpenCoffee
