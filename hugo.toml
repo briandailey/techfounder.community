@@ -2,6 +2,7 @@ baseURL = 'https://techfounder.community/'
 languageCode = 'en-us'
 title = 'Technical Founder Community'
 theme = 'paper'
+description = 'A community for engineers turned entreprenuers.'
 
 [menu]
 [[menu.main]]
