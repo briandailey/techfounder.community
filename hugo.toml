@@ -1,3 +1,16 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://techfounder.community/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Technical Founder Community'
+theme = 'paper'
+
+[menu]
+[[menu.main]]
+identifier = "membership"
+name = "Membership"
+url = "/membership"
+weight = 10
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact"
+weight = 30
