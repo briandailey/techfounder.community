@@ -1,6 +1,9 @@
 ---
 title: "👋 Hi there."
 layout: "single.html"
+kind: "page"
+description: "A community for engineers turned entrepreneurs."
+summary: "A community for engineers turned entrepreneurs."
 ---
 
 If you...
