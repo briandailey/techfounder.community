@@ -10,6 +10,8 @@ date: 2024-01-01
   post](https://www.linkedin.com/posts/briandailey_why-arent-more-companies-in-the-southeast-activity-7138218767964098560-Dksp)
   and many discussions with local engineers. I want to see more engineers who are
   considering starting a company take the plunge.
+- I wrote more about my thoughts on this
+  [here](https://dailey.page/p/tech-founder-community-nashville/).
 
 ## Why Nashville?
 
