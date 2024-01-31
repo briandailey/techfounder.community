@@ -6,6 +6,8 @@ description: "A community for engineers turned entrepreneurs."
 summary: "A community for engineers turned entrepreneurs."
 ---
 
+---
+
 If you...
 
 - Have a background in software development
@@ -14,10 +16,14 @@ If you...
 
 ...then you are a **tech founder**, and this is the community for you.
 
+---
+
 The goal of this community is to encourage and enable engineers to leverage
 their technical and domain expertise to build a thriving business. We do this by
 connecting interested folks in local networks with peers, mentors, advisors, and
 maybe even capital.
+
+---
 
 Tech Founder Community is modeled after [OpenCoffee
 Club](https://en.wikipedia.org/wiki/OpenCoffee_Club) in that it is an [open
