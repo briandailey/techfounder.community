@@ -3,7 +3,7 @@ title: "Nashville, Tennessee"
 date: 2024-01-01
 ---
 
-## Who runs it?
+## Who runs TFC in Nashville?
 
 - [Brian Dailey](https://dailey.pag://dailey.page/about/)
 - It all started with [this LinkedIn
@@ -13,8 +13,7 @@ date: 2024-01-01
 
 ## Why Nashville?
 
-- Nashville is pretty great. We have a very collaborative community and a lot of
-  smart engineers.
+- Nashville is a very collaborative community and a lot of smart engineers.
 - The Nashville Entrepreneur Center have a corner on the MBA/suits, but the
   overlap between "startup biz-types" and "engineers" is pretty small.
 - Tennessee is pretty business friendly, all things considered.
@@ -23,11 +22,25 @@ date: 2024-01-01
 
 Right now (as of January 2024) it's super informal. That means we hang out in a private chat room on
 an already-existing [Slack group that many are already on](https://nashdev.com)
-(which does mean we are also subject to their CoC). We have adhoc get togethers
+(which does mean we are also subject to their CoC). We have ad-hoc get-togethers
 coordinated by Brian.
 
 As we determine the level of interest, we can develop more structure.
 
 ## How do I apply?
 
-Coming soon. :)
+If you're interested in being an active member of this group, you can [apply for
+membership here](https://forms.gle/ofavMwrnWpiDgqbo8).
+
+## Community Resources
+
+- Slack Groups
+    - [NashDev Slack](https://nashdev.com)
+    - [StartupNash](https://startupnash.com)
+- Other
+    - [Nashville Entrepreneur Center](https://www.ec.co/)
+
+## Want to add a resource?
+
+[Open a pull request](https://github.com/briandailey/techfounder.community) on
+GitHub.
