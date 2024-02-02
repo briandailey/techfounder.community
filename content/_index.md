@@ -1,6 +1,5 @@
 ---
 title: "👋 Hi there."
-layout: "single.html"
 kind: "page"
 description: "A community for engineers turned entrepreneurs."
 summary: "A community for engineers turned entrepreneurs."
@@ -25,24 +24,7 @@ maybe even capital.
 
 ---
 
-Tech Founder Community is modeled after [OpenCoffee
-Club](https://en.wikipedia.org/wiki/OpenCoffee_Club) in that it is an [open
-concept](https://en.wikipedia.org/wiki/Open_knowledge) with a very informal,
-loose structure.
-
-The way we hope to support tech founders is through:
-
-- In-person meetups
-- Peer encouragement and advice
-- Advice from veteran founders
-- A collection of recommended resources
-- Discussion panels, guest speakers, etc.
-
-As of January 2024, Tech Founder Community is very much an experiment. It is
-currently spearheaded by [Brian Dailey](https://dailey.page/) and is only
-available in [Nashville, Tennessee](/locations/nashville).
-
-## What do you mean by "founder"?
+## What do you mean by "tech founder"?
 
 For the purposes of this group, we acknowledge that 'founder' could include a
 wide variety of things, ranging from software-as-a-service to pure service
@@ -56,7 +38,28 @@ guidance and advice to those interested in a specific line of business.
 What this group is _not_ for: marketing and selling your product or services to
 group members.
 
+## How does it work, who owns it?
+
+No one owns it. Tech Founder Community is modeled after [OpenCoffee
+Club](https://en.wikipedia.org/wiki/OpenCoffee_Club) in that it is an [open
+concept](https://en.wikipedia.org/wiki/Open_knowledge) with a very informal,
+loose structure.
+
+## What's in it for me?
+
+The way we hope to support tech founders is through:
+
+- In-person meetups
+- Peer encouragement and advice
+- Advice from veteran founders
+- A collection of recommended resources
+- Discussion panels, guest speakers, etc.
+
 # Interested?
+
+As of January 2024, Tech Founder Community is very much an experiment. It is
+currently spearheaded by [Brian Dailey](https://dailey.page/) and is only
+available in [Nashville, Tennessee](/locations/nashville).
 
 Great!  If you this sounds like a group you'd be interested in, take a look at
 the [Membership](/membership) page.
