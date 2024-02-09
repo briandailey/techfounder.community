@@ -11,9 +11,11 @@ If you...
 
 - Have a background in software development
 - Have an interest in building your own company
-- _Live in or near Nashville, Tennessee (our current area of focus)_
 
-...then you are a **tech founder**, and this is the community for you.
+...then you are a **tech founder**.
+
+If you are a tech founder living in or near Nashville, Tennessee (our current 
+area of focus) then this is the community for you.
 
 ---
 
@@ -24,16 +26,17 @@ maybe even capital.
 
 ---
 
-## What do you mean by "tech founder"?
+## What do you mean by "founder"?
 
-For the purposes of this group, we acknowledge that 'founder' could include a
-wide variety of things, ranging from software-as-a-service to pure service
-offerings (e.g., coaching and consulting). It could mean being a solopreneur or
-a technical co-founder.
+For the purposes of this group, "founder" refers to anyone participating in the
+earliest stages of creating a company. It could mean an indie hacker, solopreneur, 
+or technical co-founder.
 
-While different kinds of businesses often require different approaches, we hope
-that this group can encompass any of the above, with subgroups that can provide
-guidance and advice to those interested in a specific line of business.
+Importantly, this group is not focused on founders of a specific _type_ of company. 
+Whether you're building a software-as-a-service business or a pure service offering
+(e.g., coaching and consulting), we're here for it. Of course, different types 
+of businesses often require different strategies, so we imagine a constellation
+of subgroups to support specific pursuits.
 
 What this group is _not_ for: marketing and selling your product or services to
 group members.
